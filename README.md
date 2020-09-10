@@ -5,7 +5,7 @@ Link: https://bot.dialogflow.com/91857f09-f533-434b-bc8b-840b501b8dee
 -	To see what you can do, first type “hello” or “hey.”
 -	The chatbot should then guide you from there
 
-## Idea
+## About
 Applying to colleges can be a tough task. Choosing which college to attend is even more difficult. The decision one makes about college can affect their career forever. With the millions of factors that play an important role in the college decision process, it is hard to keep track of which option would be the idlest. With my chatbot, I aim to help many students going through this process. Using my chatbot, they can get a direct correlation and comparison between colleges so they are not only aware of the facts about those colleges but can also see the comparison in one place. Depending on the factors that matter most to them, they can ask about that factor, for example, cost of attendance, graduation rate, acceptance rate, sex ratio and student to faculty ratio. 
 
 ## Tech Stack/ Resources
