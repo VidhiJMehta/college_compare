@@ -1,6 +1,6 @@
 # college_compare
 
-## Try me: 
+## Try me
 Link: https://bot.dialogflow.com/91857f09-f533-434b-bc8b-840b501b8dee
 -	To see what you can do, first type “hello” or “hey.”
 -	The chatbot should then guide you from there
