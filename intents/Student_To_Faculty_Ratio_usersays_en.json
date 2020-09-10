@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f8afafed-7f0a-4049-9b9c-d7ae83f5c9a0",
+    "data": [
+      {
+        "text": "student faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff358085-14f6-422e-9e53-188d67b75e13",
+    "data": [
+      {
+        "text": "student teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edd1be81-1e45-40da-aa61-f2ede3573423",
+    "data": [
+      {
+        "text": "student faculty ratio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e230cf5-0535-435d-8611-1bfa14880d7e",
+    "data": [
+      {
+        "text": "student-faculty ratio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6a2034b-06d8-4d0c-aed8-60ebd1cfc319",
+    "data": [
+      {
+        "text": "student-teacher ratio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

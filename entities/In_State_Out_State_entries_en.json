@@ -1,0 +1,30 @@
+[
+  {
+    "value": "instate",
+    "synonyms": [
+      "InState",
+      "in",
+      "in state",
+      "in student",
+      "in-state",
+      "inside the state",
+      "state"
+    ]
+  },
+  {
+    "value": "outstate",
+    "synonyms": [
+      "OutState",
+      "out",
+      "out of",
+      "out of state",
+      "out state",
+      "out student",
+      "out-of-state",
+      "out-of-student",
+      "out-state",
+      "outside the state",
+      "outside-the-state"
+    ]
+  }
+]

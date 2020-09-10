@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d7fe6c5f-32d4-4870-bdc2-57727c1a8776",
+    "data": [
+      {
+        "text": "how hard is it to get in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4ae6d31-581a-4f2c-b90c-309082f36245",
+    "data": [
+      {
+        "text": "percent accepted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73e921c6-6a30-4131-a2f4-129d7d46147f",
+    "data": [
+      {
+        "text": "acceptance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6993b24-3655-4ff0-bf2e-d35d40199200",
+    "data": [
+      {
+        "text": "acceptance rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f07fc412-9f8e-4f49-a067-0ba1c7a91679",
+    "data": [
+      {
+        "text": "chances of getting in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91cc38a5-0c51-4476-9056-585d0759e9c1",
+    "data": [
+      {
+        "text": "admission rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

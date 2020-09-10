@@ -1,0 +1,106 @@
+[
+  {
+    "id": "075242cd-a7c7-4f8f-8bff-fb14ff4657cd",
+    "data": [
+      {
+        "text": "ratio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b86c6517-4dfa-4d9e-bdf9-8d6fd9afab6b",
+    "data": [
+      {
+        "text": "boys",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a68efcc-db4a-41cb-9056-61dd02bd0644",
+    "data": [
+      {
+        "text": "girls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55555b73-e256-48f5-993b-67d3b2910931",
+    "data": [
+      {
+        "text": "sex ratio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7c78b82-301b-46f9-a96d-50b9402ba8d3",
+    "data": [
+      {
+        "text": "gender ratio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a62575b-e787-4160-b8d3-3a824b8296f9",
+    "data": [
+      {
+        "text": "male percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b7b345a-9505-4238-af18-1f88143bae02",
+    "data": [
+      {
+        "text": "female percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37ac7cb6-52be-4e9f-b166-08000aee3cc9",
+    "data": [
+      {
+        "text": "sex ration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

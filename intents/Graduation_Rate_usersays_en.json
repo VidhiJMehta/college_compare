@@ -1,0 +1,80 @@
+[
+  {
+    "id": "695f57ae-8ab3-4dd1-8be4-7666587edd2e",
+    "data": [
+      {
+        "text": "students graduating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d089ca6-4866-48de-baec-257cf4de61be",
+    "data": [
+      {
+        "text": "graduating body",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecf57bf0-e27b-49df-8c68-b67bc84ddb70",
+    "data": [
+      {
+        "text": "graduate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a9b0da3-c2b8-47c4-9a63-273f3bc52b39",
+    "data": [
+      {
+        "text": "grad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9c0f5a0-4c1d-4cc9-a9ea-31d6591a04c9",
+    "data": [
+      {
+        "text": "Grad rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c64c2910-181e-4ff0-9034-e442cf355c02",
+    "data": [
+      {
+        "text": "Graduation rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

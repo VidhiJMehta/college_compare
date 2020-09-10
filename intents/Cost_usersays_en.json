@@ -1,0 +1,130 @@
+[
+  {
+    "id": "3741ef22-2576-45c4-b7a2-98694cf2ebaa",
+    "data": [
+      {
+        "text": "out of state",
+        "meta": "@In_State_Out_State",
+        "alias": "In_State_Out_State",
+        "userDefined": false
+      },
+      {
+        "text": " tuition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78207fc6-b8f2-4a74-8a27-b59d70fa37df",
+    "data": [
+      {
+        "text": "in state",
+        "meta": "@In_State_Out_State",
+        "alias": "In_State_Out_State",
+        "userDefined": false
+      },
+      {
+        "text": " tuition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd054479-418e-4a62-b8c6-98a5aa5cca5b",
+    "data": [
+      {
+        "text": "in-state",
+        "meta": "@In_State_Out_State",
+        "alias": "In_State_Out_State",
+        "userDefined": true
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2747f16b-3161-42cd-b27b-2c300463e0a2",
+    "data": [
+      {
+        "text": "cost for ",
+        "userDefined": false
+      },
+      {
+        "text": "in-state",
+        "meta": "@In_State_Out_State",
+        "alias": "In_State_Out_State",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30a84b4d-d27a-497e-9dd5-e07c11df3731",
+    "data": [
+      {
+        "text": "money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adf36736-9dd4-4791-8311-851ae8ceed42",
+    "data": [
+      {
+        "text": "tuition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dfedf32-4dfb-4514-9d0e-ef89ef64d5d8",
+    "data": [
+      {
+        "text": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1acaebdc-c889-4ee3-9071-69192adf654d",
+    "data": [
+      {
+        "text": "Cost of attending",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

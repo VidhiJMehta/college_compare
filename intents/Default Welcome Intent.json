@@ -1,0 +1,40 @@
+{
+  "id": "befa1ff5-786d-43a1-ab0c-a2911227fbdf",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Howdy! I am here to help you with making the tough decisions about colleges. I can provide comparisons of top three public universities of Texas.  The comparisons can be based on the admissions rate, graduation rate, student-to-faculty ratio, sex ratio, and cost of attendance. Which characteristic would you like me to compare?",
+            "Hello there! I am here to help you with making the tough decisions about colleges. I can provide comparisons of top three public universities of Texas.  The comparisons can be based on the admissions rate, graduation rate, student-to-faculty ratio, sex ratio, and cost of attendance. Which characteristic would you like me to compare?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

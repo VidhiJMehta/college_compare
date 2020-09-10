@@ -1,0 +1,9 @@
+{
+  "id": "6371c2d3-97e2-4b99-b3c1-78db00ac49eb",
+  "name": "In_State_Out_State",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
